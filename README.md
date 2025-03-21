@@ -1,5 +1,5 @@
 
-Authentication with login, register and forgot password pages.
+Sistema de autenticação com páginas de login, registro e recuperação da conta.
 
 
 
@@ -14,4 +14,4 @@ Authentication with login, register and forgot password pages.
 
 ## 💡 About
 
-This project was created with the purpose of learning how a simple authentication system works, using modern web tools.
+Este projeto foi criado com o objetivo aprendizado, recriando um sistema de autenticação simples e utilizando ferramentas web modernas.
