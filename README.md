@@ -14,4 +14,4 @@ Sistema de autenticação com páginas de login, registro e recuperação da con
 
 ## 💡 About
 
-Este projeto foi criado com o objetivo aprendizado, recriando um sistema de autenticação simples e utilizando ferramentas web modernas.
+Este projeto foi criado com o objetivo de aprendizado, recriando um sistema de autenticação simples e utilizando ferramentas web modernas.
